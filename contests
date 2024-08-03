@@ -1,0 +1,18 @@
+// [1] AtCoder Beginner Contest 363 
+// [A]
+#include<iostream>
+using namespace std;
+int main(){
+  int n;
+  cin>>n;
+  if(n<100){
+    cout<<(100-n);
+  }else if(n<200){
+    cout<<(200-n);
+  }else if(n<300){
+      cout<<(300-n);
+  }else{
+      cout<<(400-n);
+  }
+  return 0;
+} 

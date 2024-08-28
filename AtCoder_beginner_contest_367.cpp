@@ -1,4 +1,5 @@
 //A. Shout Everyday
+
 #include<iostream>
 using namespace std;
 int main() {
